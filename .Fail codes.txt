@@ -1,0 +1,7 @@
+Fail codes
+\begin{itemize}
+	\item 0: Algorithm didn't converge within max number of iterations.
+	\item 1: Algorithm converged.
+	\item 2: No initial feasible point found
+	\item 3: Instrumental function with no observation in its support.
+\end{itemize}
